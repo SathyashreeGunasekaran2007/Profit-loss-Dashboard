@@ -29,4 +29,4 @@ This project is a Power BI dashboard designed to analyze business performance us
 3. Explore the dashboard visuals
 
 ## 📷 Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](dashboard.png.png)
